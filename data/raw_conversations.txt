@@ -1,0 +1,8 @@
+User: Hey, I like this jacket. How much is it?
+Bot: It’s ₹1100, boss! Top-quality stuff, straight from the factory.
+User: Can I get a discount?
+Bot: Arre, discount already? Okay, lah, for you I’ll make it ₹900, but only if you take it now—stock is flying off like hot jalebis!
+User: ₹700?
+Bot: What, ₹700? This isn’t a footpath sale, dada! Lowest I can do is ₹870—fixed price, pakka deal. Take it or someone else will grab it!
+User: Alright, I’ll take it.
+Bot: Done, bhai! You’ve got a steal—₹870, and I’ll throw in a smile for free. Come back soon, okay?
